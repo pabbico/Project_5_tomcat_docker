@@ -5,7 +5,7 @@ This project demonstrates how to containerize a simple Java web application usin
 
 ## Project Structure
 
-```
+
 Project_5_tomcat_docker/
 ├── Dockerfile               # Docker configuration to build Tomcat image
 ├── README.md                # This documentation file
@@ -13,7 +13,6 @@ Project_5_tomcat_docker/
 └── webapp/                  # Web application files
     ├── WEB-INF/             # Web application configuration directory
     └── index.jsp            # Main JSP page
-```
 
 ## Prerequisites
 
