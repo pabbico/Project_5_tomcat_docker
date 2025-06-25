@@ -148,10 +148,6 @@ To remove all containers and images:
 docker-compose down --rmi all
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if applicable).
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
